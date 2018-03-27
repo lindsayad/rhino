@@ -1,6 +1,6 @@
 Rhino
 =====
 
-"Fork Rhino" to create a new MOOSE-based application.
-
-For more information see: [http://mooseframework.org/create-an-app/](http://mooseframework.org/create-an-app/)
+Solves coupled Darcy pressure and heat conduction-convection equations for
+purpose of MOOSE coupling demonstration. Very similar to step 6 of the MOOSE
+darcy thermomechanical tutorial.
